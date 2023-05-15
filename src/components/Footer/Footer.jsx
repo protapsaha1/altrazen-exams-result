@@ -4,8 +4,8 @@ import linkedin from '../../../public/image/linkedin.png';
 
 const Footer = () => {
     return (
-        <div className="w-full h-full bg-sky-700 ">
-            <div className='w-[1980px] h-[350px] grid lg:grid-cols-3 lg:grid-rows-1 sm:grid-cols-1  px-36 py-20 mx-auto'>
+        <div className="w-full h-[450px] bg-sky-700 mt-10">
+            <div className='w-[1980px] grid lg:grid-cols-3 lg:grid-rows-1 sm:grid-cols-1  px-36 py-20 mx-auto'>
                 <div>
                     <h1 className="text-4xl font-bold text-white">Altrazen</h1>
                     <div className='flex my-4'>

@@ -1,5 +1,4 @@
 import cat1 from '../../../public/image/8f0f1a58f61495c4d27bec21c31d7a28.gif';
-// import cat2 from '../../../public/image/DabsMyla-CosmicCat_blk_-4.webp';
 
 const LoadingPage = () => {
     return (

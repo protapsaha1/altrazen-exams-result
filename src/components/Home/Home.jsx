@@ -2,11 +2,11 @@
 
 const Home = () => {
     return (
-        <div className="w-full h-full">
-            <div className="w-[1980px] h-[800px] border my-10  py-6 px-12 mx-auto rounded-xl shadow-2xl">
+        <div className="w-full h-[70vh]">
+            <div className="w-[1980px] h-full border my-5  py-6 px-12 mx-auto rounded-xl shadow-2xl">
+                <h1 className="text-6xl font-bold m-10 mt-[30%]">Find your Result</h1>
                 <form>
-                    <h1 className="text-6xl font-bold m-10">Find your Result</h1>
-                    <div className="grid grid-cols-2 gap-6 mt-20">
+                    <div className="grid grid-cols-2 gap-6 mt-20 place-content-center">
                         <div className="w-full">
                             <div className="my-16">
                                 <label>
